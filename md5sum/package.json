@@ -1,0 +1,8 @@
+{
+  "name": "md5sum",
+  "version": "1.0.0",
+  "description": "Compute an md5sum of input",
+  "main": "index.js",
+  "author": "Michael Magyar",
+  "license": "MIT"
+}
