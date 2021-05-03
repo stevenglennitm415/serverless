@@ -20,7 +20,7 @@ exports.handler = (event, handler, callback) => {
     
     
     
-    value = "teststring";
+    value = "teststring"
 if (!/^[a-z0-9 .-]*$/i.test(value)) {
         console.log('Bad input for ' + input);
         callback(null, {
